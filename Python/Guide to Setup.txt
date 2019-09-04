@@ -1,3 +1,7 @@
 conda install plotly
 conda install -c konstantinstadler country_converter
 conda install -c pyviz holoviews bokeh
+
+
+conda install -c conda-forge miktex
+conda install -c conda-forge pandoc 
