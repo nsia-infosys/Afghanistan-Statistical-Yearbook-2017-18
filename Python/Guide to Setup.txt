@@ -5,3 +5,5 @@ conda install -c pyviz holoviews bokeh
 
 conda install -c conda-forge miktex
 conda install -c conda-forge pandoc 
+
+conda install -c conda-forge tabulate
